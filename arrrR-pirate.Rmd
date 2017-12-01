@@ -5,8 +5,9 @@ date: "December 1, 2017"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+#####Here is a haiku about numbers.
+Chris- take it away!  
+Write a good number poem  
+Like two plus forty  
 
-
+changes
