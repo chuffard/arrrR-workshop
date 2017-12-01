@@ -15,3 +15,18 @@ changes
 one out of five tries
 leads to success only sometimes
 we have more to learn
+
+
+##NYC flights
+```{r}
+library(tidyverse)
+library(nycflights13) #install.packages("nycflights13")
+
+flights
+
+#Jan 1 data
+flights %>% 
+  filter(month == 1,
+         day == 1)
+```
+
